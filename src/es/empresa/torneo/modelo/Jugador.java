@@ -9,13 +9,13 @@ public class Jugador {
     private int rankingElo;
     private String participacion;
 	
-    public Jugador(String idJugador, String nombre, String apodo, int rankingElo, String participacion) {
+    public Jugador(String idJugador, String nombre, String apodo, int rankingElo) {
 		super();
 		this.idJugador = idJugador;
 		this.nombre = nombre;
 		this.apodo = apodo;
 		this.rankingElo = rankingElo;
-		this.participacion = participacion;
+		this.participacion = "Pendiente de aprobar";
 	}
 
 	public Jugador() {

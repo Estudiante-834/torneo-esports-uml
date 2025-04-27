@@ -11,13 +11,13 @@ public class Equipo {
     private int rankingElo;
     private String participacion;
 	
-    public Equipo(String idEquipo, String nombre, List<Jugador> listaJugadores, int rankingElo, String participacion) {
+    public Equipo(String idEquipo, String nombre, List<Jugador> listaJugadores, int rankingElo) {
 		super();
 		this.idEquipo = idEquipo;
 		this.nombre = nombre;
 		this.listaJugadores = listaJugadores;
 		this.rankingElo = rankingElo;
-		this.participacion = participacion;
+		this.participacion = "Pendiente de aprobar";
 	}
 
 	public Equipo() {
