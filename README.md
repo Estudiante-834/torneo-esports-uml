@@ -1,50 +1,57 @@
-# Sistema de Gestión de Torneos de eSports 
+# Sistema de Gestión de Torneos de eSports
 
-## Autor 
-Carlos Fu
-https://github.com/Estudiante-834
+## Autor
 
+Carlos Fu  
 
-## Descripción del Proyecto 
- 
-https://github.com/Estudiante-834/torneo-esports-uml
-
-Tarea AD3 de EEDD en donde se modela parte de un sistema de gestión de torneos eSports mediante diagramas UML y se implementa en Java.
+https://github.com/Estudiante-834  
 
 
-## Diagramas UML 
-### Diagrama de Casos de Uso 
-![Diagrama de casos de uso](diagrams/casos-uso.png) 
- 
-### Diagrama de Clases 
-![Diagrama de clases](diagrams/clases.png) 
+## Descripción del Proyecto
+
+https://github.com/Estudiante-834/torneo-esports-uml  
+
+Tarea AD3 de EEDD en donde se modela parte de un sistema de gestión de torneos eSports mediante diagramas UML y se implementa en Java.  
 
 
-## Estructura del Proyecto 
- 
-torneo-esports-uml/
-├── src/ 
-│ ├── es/empresa/torneo/ 
-│ │ ├── modelo/ 
-│ │ ├── control/ 
-│ │ ├── vista/ 
-│ │ ├── Main.java 
-├── diagrams/ 
-│ ├── casos-uso.png 
-│ ├── clases.png 
-├── README.md 
-├── .gitignore
+## Diagramas UML  
+
+### Diagrama de Casos de Uso  
+
+![Diagrama de casos de uso](diagrams/casos-uso.png)  
+
+### Diagrama de Clases  
+![Diagrama de clases](diagrams/clases.png)  
 
 
-## Instalación y Ejecución 
-1. Clonar el repositorio: 
-`git clone https://github.com/Estudiante-834/torneo-esports-uml.git`
+## Estructura del Proyecto
 
-2. Compilar y ejecutar el proyecto: 
-`cd src javac es/empresa/torneo/Main.java java es.empresa.torneo.Main` 
+torneo-esports-uml/  
+├── src/  
+│ ├── es/empresa/torneo/  
+│ │ ├── modelo/  
+│ │ ├── control/  
+│ │ ├── vista/  
+│ │ ├── Main.java  
+├── diagrams/  
+│ ├── casos-uso.png  
+│ ├── clases.png  
+├── README.md  
+├── .gitignore  
 
 
-## Justificación del diseño 
+## Instalación y Ejecución
+
+1. Clonar el repositorio:  
+
+`git clone https://github.com/Estudiante-834/torneo-esports-uml.git`  
+
+2. Compilar y ejecutar el proyecto:  
+
+`cd src javac es/empresa/torneo/Main.java java es.empresa.torneo.Main`  
+
+
+## Justificación del diseño
 
 Los diagramas mostrados en el proyecto son el resultado final tras varias versiones de experimentación y desarrollo, con cada versión profundizando más mi entendimiento sobre el modelado de diagramas de casos de uso y de clases.
 
