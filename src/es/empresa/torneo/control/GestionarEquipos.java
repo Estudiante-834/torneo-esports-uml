@@ -16,11 +16,11 @@ public class GestionarEquipos {
     	
     }
     
-    public void addJugadorEquipo(String equipoId, Jugador jugador) {
+    public void addJugadorEquipo(String idEquipo, Jugador jugador) {
 
     }
     
-    public void removeJugadorEquipo(String equipoId, Jugador jugador) {
+    public void removeJugadorEquipo(String idEquipo, Jugador jugador) {
     	
     }
 
